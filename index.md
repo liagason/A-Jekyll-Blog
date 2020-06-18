@@ -1,1 +1,4 @@
-### Hello world
+# Hello world
+{% for post in site.posts %}
+[{{post.title}}]({{post.url}})
+{% endfor %}
