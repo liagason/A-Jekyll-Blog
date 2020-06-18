@@ -1,4 +1,8 @@
 theme: jekyll-theme-primer
+author: Sotiris Liagas
+email: liagason@gmail.com
 title: Sotiris Liagas
-description: Personal homepage
-google_analytics: [Your Google Analytics tracking ID]
+description: Sotiris Liagas personal homepage - Σωτήρης Λιάγκας
+twitter_username: liagason
+github_username: liagason
+permalink: /:title
