@@ -10,6 +10,6 @@ title: Welcome to my blog - echo('hello world'); 👋
 
 Welcome to my blog!  
 I have recently migrated my website from [Typecho](https://typecho.org) to Github Pages as it provides super fast free hosting and is easier to maintain!  
-I took me some googling and a just couple of hours to set it up and running!  
+I took me some googling and a couple of hours to set it up and running!  
 I don't think I'll import any previous posts for the time being, but I'll start posting new stuff soon.  
 Thanks for visiting!
