@@ -1,4 +1,4 @@
 # Hello world
 
 test
-[link](posts/welcome-to-my-new-blog.md)
+[link](_posts/welcome-to-my-new-blog.md)
