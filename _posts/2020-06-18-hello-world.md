@@ -9,7 +9,7 @@ title: Welcome to my blog - echo('hello world'); 👋
 <p class="meta">18 Jun 2020 - Patras, Greece</p>
 
 Welcome to my blog!  
-```
+```php
 echo('Hello world');
 ```
 I have recently migrated my website from [Typecho](https://typecho.org) to Github Pages as it provides super fast free hosting and is easier to maintain!  
