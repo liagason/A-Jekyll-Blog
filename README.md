@@ -1,11 +1,11 @@
 # Blog
 
-This is where I post my thoughts about #edtech, teaching, programming and teaching programming! Read more [here](https://liagason.com).
+This is where I post my thoughts about edtech, teaching, programming and teaching programming! Read more [here](https://liagason.github.io).
 
 
 ## License
 
-The content of the following directories is copyrighted by Sotiris Liagas. You may not use anything therein without written permission:
+The content of the following directories is copyrighted by Sotiris Liagas. You may not use anything therein without prior written permission:
 
 ```
 _posts/
