@@ -9,6 +9,7 @@ The content of the following directories is copyrighted by Sotiris Liagas. You m
 
 ```
 _posts/
+files/
 ```
 
 All the other directories and/or files are MIT Licensed (where applicable).
