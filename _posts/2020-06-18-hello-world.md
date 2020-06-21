@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Welcome to my blog - echo('hello world'); 👋
+title: Hello World 👋
 ---
 
 {{ page.title }}
