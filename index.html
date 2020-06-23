@@ -4,20 +4,20 @@ title: Sotiris Liagas
 ---
 
 <div id="home">
-  <h1>Blog</h1>
+  <h1>Blog Posts</h1>
   <ul class="posts">
     {% for post in site.posts %}
       <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
     {% endfor %}
   </ul>
 
-  <h1>Highlighted</h1>
+  <h1>Highlighted Media</h1>
   <ul class="posts">
     <li><span>03 Apr 2020</span> &raquo; <a target="_blank" href="https://www.sch.gr/tin-tetarti-8-apriliou-2020-ston-diethni-diastimiko-stathmo-tha-dieksachthei-peirama-tou-17ou-dimotikou-scholeiou-agriniou/">Στον Διεθνή Διαστημικό Σταθμό το πείραμα του 17ου Δ.Σ. Αγρινίου</a></li>
     <li><span>02 Apr 2020</span> &raquo; <a target="_blank" href="https://www.esa.int/Education/AstroPI/Astro_Pi_Mission_Space_Lab_-_208_teams_from_22_countries_achieve_flight_status">Astro Pi: Mission Space Lab - 208 teams from 22 countries achieve flight status!</a></li> 
   </ul>
 
-  <h1>Archived Projects</h1>
+  <h1>Archived Open Source Projects</h1>
   <ul class="posts">
     <li><a target="_blank" href="https://www.softpedia.com/get/Security/Encrypting/PalCrypt.shtml">Palcrypt:</a> A file encryption tool that supports AES 256-bit and is integrated into the Windows shell.</li>
     <li><a target="_blank" href="https://www.softpedia.com/get/Security/Security-Related/ProHash.shtml">Prohash:</a> A simple and handy tool to calculate numerous types of checksums for files and/or text strings.</li>
