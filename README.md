@@ -4,7 +4,7 @@ This is where I post my thoughts about edtech, teaching, programming and teachin
 
 ## Credits
 
-The HTML and CSS code are based off of [Tom Preston-Werner's](http://github.com/mojombo/jekyll) personal website.
+The HTML and CSS code are based off of [Tom Preston-Werner's](https://github.com/mojombo/mojombo.github.io) personal website.
 
 ## License
 
