@@ -8,7 +8,7 @@ title: Τα δεδομένα μας από τον Διεθνή Διαστημι�
 
 Το παρακάτω αρχεία περιέχουν τα δεδομένα που επέστρεψε το πείραμά μας για την παραγωγή τυχαίων αριθμών στο Διάστημα και στη Γη.  <br/><br/>
 
-![Astro Pi - Mission Space Lab - Entro PI](https://github.com/liagason/liagason.github.io/raw/master/img/astropi-1.png "Astro Pi - Mission Space Lab - Entro PI")  <br/><br/>
+![Astro Pi - Mission Space Lab - Entro PI](https://github.com/liagason/liagason.github.io/raw/master/img/astropi-1.png "Astro Pi - Mission Space Lab - Entro PI")  <br/>
 
 Στα αρχεία περιέχονται δεδομένα που παρήχθησαν από τη Θερμοκρασία, την Υγρασία, την Ατμοσφαιρική Πίεση, την ένταση του Μαγνητικού Πεδίου και άλλες φυσικές πηγές εντροπίας.  <br/><br/>
   
