@@ -9,4 +9,4 @@ I'm an elementary school teacher and self-taught programmer. I currently teach m
 
 In 2020, I cofounded [Elemedu](https://elemedu.com), a free and open source lesson plan sharing platform for elementary school teachers.
 
-Check out my open source projects on [Github](https://github.com/liagason) or send me a message on [Twitter](https://twitter.com/liagason).
+If you want to get social, you can send me a message on [Twitter](https://twitter.com/liagason).
