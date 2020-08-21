@@ -3,9 +3,6 @@ layout: post
 title: Hello World
 ---
 
-<h1 class="font-bold">{{ page.title }}</h1>
-<p class="text-xs tracking-wider mb-4">18 Jun 2020 - Patras, Greece</p>
-
 Welcome to my blog!  
 ```php
 echo('Hello world');
