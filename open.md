@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Open Source Projects - Sotiris Liagas
+title: Open Source Projects
 ---
 
 # Palcrypt
