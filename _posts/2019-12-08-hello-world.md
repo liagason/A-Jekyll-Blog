@@ -3,7 +3,7 @@ layout: post
 title: Hello World
 ---
 
-Welcome to my blog!  
+## Welcome to my blog!  
 ```php
 echo('Hello world');
 ```
