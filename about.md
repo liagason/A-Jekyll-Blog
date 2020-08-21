@@ -3,7 +3,8 @@ layout: page
 title: About
 ---
 
-Hey there! I'm Sotiris Liagas (Σωτήρης Λιάγκας).
+Hey there!  
+I'm Sotiris Liagas (Σωτήρης Λιάγκας).
 
 I'm an elementary school teacher and self-taught programmer. I currently teach math, science and greek language to sixth grade students.
 
