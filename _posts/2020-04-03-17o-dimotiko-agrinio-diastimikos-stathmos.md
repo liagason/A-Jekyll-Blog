@@ -9,4 +9,4 @@ title: Το 17ο Δ.Σ. Αγρινίου στον Διεθνή Διαστημι�
 
 Το πείραμά μας θα διεξαχθεί στον Διεθνή Διαστημικό Σταθμό την Τετάρτη, 8 Απριλίου 2020 και εκτιμάται ότι θα πάρουμε τα αποτελέσματα ως το τέλος το Μαΐου, οπότε και θα αρχίσουμε να τα αναλύουμε!
 
-👉 [Διαβάστε περισσότερα εδώ](https://www.sch.gr/tin-tetarti-8-apriliou-2020-ston-diethni-diastimiko-stathmo-tha-dieksachthei-peirama-tou-17ou-dimotikou-scholeiou-agriniou/).
+[Διαβάστε περισσότερα για το πείραμα του 17ου Δημοτικού Σχολείου Αγρινίου στο Διάστημα](https://www.sch.gr/tin-tetarti-8-apriliou-2020-ston-diethni-diastimiko-stathmo-tha-dieksachthei-peirama-tou-17ou-dimotikou-scholeiou-agriniou/).
