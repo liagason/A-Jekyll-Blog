@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Open Source Projects
+title: Projects
 ---
 
 # [Palcrypt](https://www.softpedia.com/get/Security/Encrypting/PalCrypt.shtml)
