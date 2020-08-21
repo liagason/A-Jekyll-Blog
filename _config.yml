@@ -5,7 +5,7 @@ author_name:        "Sotiris Liagas" # change this to your name
 logo_url:           https://avatars2.githubusercontent.com/u/24388183?v=4 # Get it from GitHub API: https://api.github.com/users/<username>
 
 # Site Settings
-url:                https://liagason.github.io # main url
+url:                https://liagason.com # main url
 baseurl:            /
 permalink:          /:title # Post permalink
 timezone:           Europe/Athens # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
