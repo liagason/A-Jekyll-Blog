@@ -1,26 +1,22 @@
 ---
+layout: null
 ---
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-
- <title>Sotiris Liagas</title>
- <link href="http://liagason.com/feed.xml" rel="self"/>
- <link href="http://liagason.com/"/>
- <updated>{{ site.time | date_to_xmlschema }}</updated>
- <id>http://liagason.com/</id>
- <author>
-   <name>Sotiris Liagas</name>
-   <email>liagason@gmail.com</email>
- </author>
-
- {% for post in site.posts %}
- <entry>
-   <title>{{ post.title }}</title>
-   <link href="http://liagason.com{{ post.url }}"/>
-   <updated>{{ post.date | date_to_xmlschema }}</updated>
-   <id>http://liagason.com{{ post.id }}</id>
-   <content type="html">{{ post.content | xml_escape }}</content>
- </entry>
- {% endfor %}
-
-</feed>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>{{ site.title }}</title>
+    <description>{{ site.description }}</description>
+    <link>{{ site.baseurl | prepend: site.url }}</link>
+    {% for post in site.posts %}
+      {% unless post.draft %}
+        <item>
+          <title>{{ post.title | xml_escape }}</title>
+          <description>{{ post.content | xml_escape }}</description>
+          <pubDate>{{ post.date | date_to_xmlschema }}</pubDate>
+          <link>{{ post.url | prepend: site.baseurl | prepend: site.url }}</link>
+          <guid isPermaLink="true">{{ post.url | prepend: site.baseurl | prepend: site.url }}</guid>
+        </item>
+      {% endunless %}
+    {% endfor %}
+  </channel>
+</rss>
