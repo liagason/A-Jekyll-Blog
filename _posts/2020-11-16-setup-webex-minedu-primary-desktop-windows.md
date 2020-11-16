@@ -3,7 +3,7 @@ layout: post
 title: Σύνδεση στο webex από σταθερό υπολογιστή ή laptop
 ---
 
-Για να συνδεθείτε μέσω σταθερού υπολογιστή ή laptop ακολουθείστε τα ακόλουθα βήματα:
+Για να συνδεθείτε μέσω σταθερού υπολογιστή ή laptop ακολουθείστε τα παρακάτω βήματα:
 
 1. Επισκεφθείτε τον σύνδεσμο [https://minedu-primary2.webex.com/meet/liagason](https://minedu-primary2.webex.com/meet/liagason)
 
