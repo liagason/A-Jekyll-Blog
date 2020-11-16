@@ -5,7 +5,7 @@ title: Σύνδεση στο webex από υπολογιστή και από κ�
 
 ### Για να συνδεθείτε μέσω σταθερού υπολογιστή ακολουθείστε τα ακόλουθα βήματα:
 
-1. Επισκεφθείτε τον σύνδεσμο https://minedu-primary.webex.com/meet/liagason
+1. Επισκεφθείτε τον σύνδεσμο https://minedu-primary2.webex.com/meet/liagason
 
 2. Διαλέξτε την επιλογή Join from browser
 
