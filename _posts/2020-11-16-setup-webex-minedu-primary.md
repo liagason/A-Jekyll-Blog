@@ -8,7 +8,7 @@ title: Σύνδεση στο webex από υπολογιστή και από κ�
 1. Επισκεφθείτε τον σύνδεσμο [https://minedu-primary2.webex.com/meet/liagason](https://minedu-primary2.webex.com/meet/liagason)
 
 2. Διαλέξτε την επιλογή Join from browser
-![Join from browser](https://github.com/liagason/Jekyll-Blog/blob/master/assets/images/1.jpg)
+![Join from browser](https://raw.githubusercontent.com/liagason/Jekyll-Blog/master/assets/images/1.jpg)
 3. Διαλέξτε την επιλογή Sign in
 
 4. Γράψτε το email που έχετε στο ΠΣΔ (sch.gr) και πατήστε Next
