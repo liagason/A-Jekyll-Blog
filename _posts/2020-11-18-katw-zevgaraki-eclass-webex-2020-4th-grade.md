@@ -1,9 +1,7 @@
 ---
 layout: post
-title: Σύνδεσμοι για το Webex & το e-Class της τάξης ✍
+title: Σύνδεσμοι για το e-Class της τάξης μας ✍
 ---
-
-Για να συνδεθείτε στο Webex, όταν έχουμε μαζί μάθημα, [κάντε κλικ εδώ](https://minedu-primary2.webex.com/meet/liagason).  
 
 Για να συνδεθείτε στο e-Class κάντε [κλικ εδώ](https://eclass.sch.gr/).  
 
