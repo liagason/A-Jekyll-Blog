@@ -6,7 +6,7 @@ title: Projects
 ### [Elemedu](https://elemedu.com)
 Updated: 18 Sep 2020
 
-Elemedu is a free and open source lesson plan (and/or teaching material) sharing platform for elementary school teachers of Greece & Cyprus. The platform supports most features of modern social networking systems. [Read more](https://elemedu.com/developer).
+Elemedu is a free and open source lesson plan sharing platform for elementary school teachers of Greece & Cyprus. The platform offers all features of a modern social networking system. [Read more](https://elemedu.com/developer).
 
 ### [Palcrypt](https://www.softpedia.com/get/Security/Encrypting/PalCrypt.shtml)
 Updated: 08 Jan 2016
