@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Οι σύνδεσμοι για το e-Class της τάξης μας
+title: Οι σύνδεσμοι για το e-Class της τάξης μας ✍
 ---
 
 Για να συνδεθείτε στο e-Class κάντε [κλικ εδώ](https://eclass.sch.gr/).  
