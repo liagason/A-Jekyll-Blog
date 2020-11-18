@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Οδηγίες για webex από κινητό ή tablet (Android και iOS) 📱
+title: Οδηγίες για webex από κινητό ή tablet 📱
 ---
 
 Για να συνδεθείτε μέσω κινητού ή tablet ακολουθείστε τα παρακάτω βήματα:
