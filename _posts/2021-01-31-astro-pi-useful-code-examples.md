@@ -91,3 +91,29 @@ while True:
 
   sleep(1)
 ```
+
+### 5. Διαφορά από την προηγούμενη μέτρηση
+Ο παρακάτω κώδικα βρίσκει τη διαφορά μεταξύ δύο μετρήσεων. Θα τον τροποποιήσουμε και θα τον ενσωματώσουμε στο πρόγραμμά μας.
+```python
+from sense_hat import SenseHat
+from time import sleep
+from math import *
+
+sense = SenseHat()
+
+bef = 0
+aft = sense.get_temperature()
+dif = 0
+
+while True:
+  bef = aft
+  
+  sleep(5)
+  
+  x = sense.get_temperature()
+
+  aft = x
+  dif = abs(aft - bef)
+  
+  print(dif)
+  ```
