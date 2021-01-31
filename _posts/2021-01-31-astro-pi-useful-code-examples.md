@@ -69,7 +69,7 @@ while True:
   # Get raw data (values are swapped because Sense HAT on ISS is in different position)
   # x: northerly intensity
   # y: easterly intensity
-  #  z: vertical intensity
+  # z: vertical intensity
   
   x = float(compass['z'])
   y = float(compass['y'])
