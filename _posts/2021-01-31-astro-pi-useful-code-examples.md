@@ -39,7 +39,7 @@ while True:
     print("Northern hemisphere")
 ```
 
-### Πώς μετράμε τον χρόνο
+### Πώς μετράμε εύκολα τον χρόνο;
 Με τον παρακάτω κώδικα θα τρέξουμε το κομμάτι που είναι μέσα το while για 178 λεπτά. Ο κώδικα δείχνει το μήνυμα test και περιμένει 2 δευτερόλεπτα.
 ```python
 import datetime
@@ -52,4 +52,42 @@ while (now_time < start_time + datetime.timedelta(minutes = 178)):
     print("test....")
     sleep(2)
     now_time = datetime.datetime.now()
+```
+
+### Ένταση του μαγνητικού πεδίου
+Για να υπολογίσουμε την ένταση του μαγνητικού πεδίου θα χρησιμοποιήσουμε τους [σχετικούς μαθηματικούς τύπους από την Βρετανική Γεωλογική Υπηρεσία](https://geomag.bgs.ac.uk/education/earthmag.html). Ο παρακάτω κώδικας υπολογίζει την ένταση του μαγνητικού πεδίου στην μεταβλητή f:
+```python
+from sense_hat import SenseHat
+from time import sleep
+from math import *
+
+sense = SenseHat()
+
+while True:
+  compass = sense.get_compass_raw()
+
+  # Get raw data (values are swapped because Sense HAT on ISS is in different position)
+  # x: northerly intensity
+  # y: easterly intensity
+  #  z: vertical intensity
+  
+  x = float(compass['z'])
+  y = float(compass['y'])
+  z = float(compass['x'])
+
+  # h: horizontal intensity
+  # f: total intensity
+  # d: declination
+  # i: inclination
+  
+  h = sqrt(x ** 2 + y ** 2)
+  f = sqrt(h ** 2 + z ** 2)
+  d = degrees(atan(y / x))
+  i = degrees(atan(z / h))
+
+  print('z: ' + str(z))
+  print('h: ' + str(h))
+  print('f: ' + str(f))
+
+  sleep(1)
 ```
