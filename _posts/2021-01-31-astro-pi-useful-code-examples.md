@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Χρήσιμος κώδικας για το πείραμά μας με το astro-pi
+title: Χρήσιμος κώδικας για το πείραμά μας με το Astro Pi - Ομάδες Makerlab
 ---
 
 ### Τυχαίοι αριθμοί
-Ο παρακάτω κώδικα παράγει τυχαίους αριθμούς και αναλόγως με το αποτέλεσμα δείχνει και ένα διαφορετικό μήνυμα στην οθόνη το SenseHat:
+Ο παρακάτω κώδικα παράγει τυχαίους αριθμούς και αναλόγως με το αποτέλεσμα δείχνει και ένα διαφορετικό μήνυμα στην οθόνη το SenseHat. Θα τον τροποποιήσουμε και θα τον ενσωματώσουμε για να μη δείχνουμε συνέχεια το ίδιο μήνυμα.
 ```python
 import random
 temp = random.randint(1,4)
@@ -17,7 +17,7 @@ if temp == 3:
 ```
 
 ### Συντεταγμένες στον ΔΔΣ
-Με τον παρακάτω κώδικα μπορούμε να βρούμε τις συντεταγμένες του ΔΔΣ και να τις δείξουμε στην οθόνη:
+Με τον παρακάτω κώδικα μπορούμε να βρούμε τις συντεταγμένες του ΔΔΣ και να τις δείξουμε στην οθόνη. Θα τον τροποποιήσουμε και θα τον ενσωματώσουμε για να καταγράφουμε τις συντεταγμένες σε ένα αρχείο CSV.
 ```python
 from ephem import readtle, degree
 name = "ISS (ZARYA)"
@@ -32,4 +32,23 @@ def get_latlon():
 while True:
   latitude, longitude = get_latlon()
   print(latitude, longitude)
+  
+  if latitude < 0:
+    print("Southern hemisphere")
+  else:
+    print("Northern hemisphere")
+```
+
+### Κώδικας για να τρέξουμε το πρόγραμμα για ~3 ώρες
+```python
+import datetime
+from time import sleep
+
+start_time = datetime.datetime.now()
+now_time = datetime.datetime.now()
+
+while (now_time < start_time + datetime.timedelta(minutes = 178)):
+    print("test....")
+    sleep(2)
+    now_time = datetime.datetime.now()
 ```
