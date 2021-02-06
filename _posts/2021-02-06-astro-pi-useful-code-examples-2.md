@@ -1,6 +1,49 @@
 ---
 layout: post
-title: Εντοπισμός ημισφαιρίου και ημέρας/νύχτας για τον ΔΔΣ - Ομάδες Makerlab
+title: Εντοπισμός ημισφαιρίου και ανίχνευση ημέρας και νύχτας για τον ΔΔΣ - Ομάδες Makerlab
 ---
 
-### 1. 
+### 1. Ημέρα ή νύχτα;
+Ο παρακάτω κώδικα χρησιμοποιεί τη βιβλιοθήκη ephem που έχουμε ήδη στο πρόγραμμά μας για να εντοπίσει αν ο ΔΔΣ πετάει πάνω από κάποιο σημείο της Γης που είναι ημέρα ή νύχτα. Ο κώδικας εντοπίζει επίσης το ημισφαίριο πάνω από το οποίο βρίσκεται ο ΔΔΣ.
+```python
+import ephem
+from ephem import readtle, degree
+import time
+
+name = "ISS (ZARYA)"
+line1 = "1 25544U 98067A   21030.23684081  .00003078  00000-0  64152-4 0  9998"
+line2 = "2 25544  51.6460 305.0424 0002363 316.2883 179.5775 15.48926800267219"
+iss = readtle(name, line1, line2)
+
+def get_latlon():
+    iss.compute()
+    return (iss.sublat / degree, iss.sublong / degree)
+
+sun = None
+
+while True:
+
+  latitude, longitude = get_latlon()
+
+  home = ephem.Observer()
+  home.lat = str(latitude)
+  home.lon = str(longitude)
+  
+  sunrise = home.next_rising(ephem.Sun()).datetime()
+  sunset = home.next_setting(ephem.Sun()).datetime()
+  
+  if sunset < sunrise:
+      sun = "Day"
+      print(sun)
+  else:
+      sun = "Night"
+      print(sun)
+
+  if latitude > 0:
+      print("North")
+  else:
+      print("South")
+
+  time.sleep(2)
+  ```
+  Στον ακόλουθο σύνδεσμο μπορείτε να δείτε [το ακριβές σημείο που βρίσκεται ο ΔΔΣ αυτή τη στιγμή σύμφωνα με τα στοιχεία της NASA](https://spotthestation.nasa.gov/tracking_map.cfm).
