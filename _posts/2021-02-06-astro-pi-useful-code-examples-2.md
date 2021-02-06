@@ -20,6 +20,7 @@ def get_latlon():
     return (iss.sublat / degree, iss.sublong / degree)
 
 sun = None
+place = None
 
 while True:
 
@@ -40,9 +41,11 @@ while True:
       print(sun)
 
   if latitude > 0:
-      print("North")
+      place = "North"
+      print(place)
   else:
-      print("South")
+      place = "South"
+      print(place)
 
   time.sleep(2)
   ```
