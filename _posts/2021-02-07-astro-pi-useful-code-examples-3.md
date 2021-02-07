@@ -47,3 +47,4 @@ print("LAND pixels: " + str(land_pixel))
 print("Total pixels: " + str(tot_pixel))
 print("Percentage of LAND pixels: " + str(percentage) + "%")
 ```
+Μπορείτε να [τρέξετε τον παραπάνω κώδικα στο Repl.it](https://repl.it/@liagason/Detect-Land#main.py)
