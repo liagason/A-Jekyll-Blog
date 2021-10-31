@@ -16,4 +16,4 @@ All the other directories and/or files are MIT Licensed (where applicable).
 
 ## Contact
 
-:wave: [@liagason](https://twitter.com/liagason)
+[@liagason](https://twitter.com/liagason) :wave: 
