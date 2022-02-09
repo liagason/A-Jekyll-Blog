@@ -1,7 +1,7 @@
 # Site Info
-title:              "liagason"
-description:        "liagasons' personal homepage. Thoughts about edtech, teaching, programming and teaching programming..."
-author_name:        "liagason" # change this to your name
+title:              "Sotirios Liagkas"
+description:        "Sotirios Liagkas' personal homepage. Thoughts about edtech and programming."
+author_name:        "Sotirios Liagkas" # change this to your name
 logo_url:           https://avatars2.githubusercontent.com/u/24388183?v=4 # Get it from GitHub API: https://api.github.com/users/<username>
 
 # Site Settings
