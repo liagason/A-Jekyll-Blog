@@ -4,4 +4,4 @@ title: About
 ---
 
 Hey there! 👋 I'm Sotiris Liagkas.  
-Also appears in: [Twitter](https://twitter.com/liagason), [Github](https://github.com/liagason).
+I'm also in: [Twitter](https://twitter.com/liagason) and [Github](https://github.com/liagason).
