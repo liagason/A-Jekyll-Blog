@@ -3,10 +3,6 @@ layout: post
 title: Hello World
 ---
 
-### Welcome to my blog!  
-```php
-echo('Hello world');
-```
 I have recently migrated my website from [Typecho](https://typecho.org) to Github Pages as it provides super fast free hosting and it's much easier to maintain!
 
 It took me some googling and a couple of hours to set it up and running!
