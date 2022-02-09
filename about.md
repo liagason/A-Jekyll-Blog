@@ -3,6 +3,5 @@ layout: page
 title: About
 ---
 
-Hey there! 👋  
-I'm liagason.  
-You can send me a message on [Twitter](https://twitter.com/liagason).
+Hey there! 👋 I'm Sotiris Liagkas.  
+Also in: [Twitter](https://twitter.com/liagason), [Github](https://github.com/liagason).
