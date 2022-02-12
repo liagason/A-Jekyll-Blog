@@ -34,15 +34,9 @@
         @apply decoration-blue-700;
     }
     code {
-        @apply flex;
-        @apply flex-wrap;
-        @apply max-w-2xl;
-        @apply mx-auto;
+        @apply break-words;
     }
     pre {
-        @apply flex;
-        @apply flex-wrap;
-        @apply max-w-2xl;
-        @apply mx-auto;
+        @apply break-words;
     }
   }

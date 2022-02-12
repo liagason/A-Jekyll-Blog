@@ -469,19 +469,11 @@ a {
 }
 
 code {
-  display: flex;
-  flex-wrap: wrap;
-  max-width: 42rem;
-  margin-left: auto;
-  margin-right: auto;
+  overflow-wrap: break-word;
 }
 
 pre {
-  display: flex;
-  flex-wrap: wrap;
-  max-width: 42rem;
-  margin-left: auto;
-  margin-right: auto;
+  overflow-wrap: break-word;
 }
 
 *, ::before, ::after {
