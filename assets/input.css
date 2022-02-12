@@ -35,8 +35,10 @@
     }
     code {
         @apply break-words;
+        @apply whitespace-pre-wrap;
     }
     pre {
         @apply break-words;
+        @apply whitespace-pre-wrap;
     }
   }

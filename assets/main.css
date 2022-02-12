@@ -470,10 +470,12 @@ a {
 
 code {
   overflow-wrap: break-word;
+  white-space: pre-wrap;
 }
 
 pre {
   overflow-wrap: break-word;
+  white-space: pre-wrap;
 }
 
 *, ::before, ::after {
