@@ -13,6 +13,9 @@ published: true
   <section class="flex flex-wrap max-w-2xl mx-auto px-8 py-16 selection:bg-blue-200">
     <div class="flex flex-col">
       
+      {% if page.path != 'index.html' %}
+        <a class="text-xs text-gray-800" href="/" aria-label="Home">&leftarrow; Go back</a>
+      {% endif %}
 
       {% if page.collection == "posts" or page.collection == "pages" %}
       
