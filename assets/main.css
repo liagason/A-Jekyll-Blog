@@ -468,6 +468,12 @@ a {
           text-decoration-color: #1d4ed8;
 }
 
+code {
+  max-width: 42rem;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 *, ::before, ::after {
   --tw-translate-x: 0;
   --tw-translate-y: 0;
@@ -520,10 +526,6 @@ a {
 
 .flex {
   display: flex;
-}
-
-.min-w-0 {
-  min-width: 0px;
 }
 
 .max-w-2xl {
