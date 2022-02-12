@@ -15,12 +15,13 @@ published: true
       
 
       {% if page.collection == "posts" or page.collection == "pages" %}
-      {% include header.html %}
+      
       <article>
         {{ content }}
       </article>
 
       {% else %}
+      {% include header.html %}
       {{ content }}
       {% endif %}
 
