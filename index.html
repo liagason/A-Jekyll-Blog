@@ -1,31 +1,18 @@
 ---
+title: Sotiris Liagkas
 layout: default
 ---
 
-<section>
+<h1 class="font-semibold font-mono tracking-wide antialiased text-xl text-gray-800 pb-8">Sotiris Liagkas</h1>
+<p class="pb-2 text-gray-800">Hey there! 👋 I’m Sotiris Liagkas. This is my first attempt to a minimal tailwindcss theme for Github Pages.</p>
+<p class="text-gray-800">I'm also on <a href="https://twitter.com/liagason" class="text-blue-700 underline underline-offset-2 decoration-1 decoration-dashed decoration-blue-700">Twitter</a> and <a href="https://github.com/liagason" class="text-blue-700 underline underline-offset-2 decoration-1 decoration-dashed decoration-blue-700">Github</a>.</p>
 
-	{% for post in site.posts %}
-		{% unless post.next %}
-			<h3 class="code">{{ post.date | date: '%Y' }}</h3>
-		{% else %}
-			{% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
-			{% capture nyear %}{{ post.next.date | date: '%Y' }}{% endcapture %}
-			{% if year != nyear %}
-				<h3 class="code">{{ post.date | date: '%Y' }}</h3>
-			{% endif %}
-		{% endunless %}
+<p class="pt-8 pb-2 font-semibold font-mono text-gray-800">Posts</p>
 
-		<ul>
-			<li>
-				<div class="post-date code">
-					<span>{{ post.date | date: "%b %d" }}</span>
-				</div>
-				<div class="title">
-					<a href="{{ post.url | prepend: site.baseurl | prepend: site.url }}">{{ post.title }}</a>
-				</div>
-			</li>
-		</ul>
-
-	{% endfor %}
-
-</section>
+{% assign posts = site.posts | where: "feature", 1 %}
+{% for post in posts %}
+    <div class="pb-1 flex flex-wrap">
+        <a href="{{ post.url }}" class="text-blue-700 underline underline-offset-2 decoration-1 decoration-dashed decoration-blue-700">{{ post.title }}</a>
+    </div>
+    <time class="pb-2 text-xs text-gray-600">{{ post.date | date_to_string }}</time>
+{% endfor %}

@@ -1,5 +1,4 @@
 ---
-layout: compress
 published: true
 ---
 
@@ -14,9 +13,14 @@ published: true
 
 		{% include header.html %}
 
-		<div id="content">
-			{{ content }}
-		</div>
+        {% if page.collection == "posts" or page.collection == "pages" %}
+        <article>
+          {{ content }}
+        </article>
+
+      {% else %}
+        {{ content }}
+      {% endif %}
 
 		{% include footer.html %}
 
