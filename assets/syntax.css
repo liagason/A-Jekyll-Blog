@@ -1,6 +1,5 @@
 
 pre, code {
-    font-size: 0.8em;
     font-family: 'Cousine', monospace;
   }
   
@@ -14,7 +13,6 @@ pre, code {
   
   .highlight .gutter {
     color: #aaa;
-    border-right: 3px solid #fff;
   }
   
   .highlight pre {
