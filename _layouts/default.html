@@ -24,7 +24,7 @@ published: true
 
       {% if page.collection == "posts" or page.collection == "pages" %}
       
-      <h1 class="font-semibold font-mono text-gray-800">
+      <h1 class="pb-1 font-semibold font-mono text-gray-800">
         {{ page.title }}
       </h1>
 
@@ -37,7 +37,6 @@ published: true
       {% else %}
       
       {{ content }}
-      
       {% endif %}
 
       {% include footer.html %}
