@@ -14,11 +14,17 @@ published: true
     <div class="flex flex-col">
       
       {% if page.path != 'index.html' %}
-        <a class="text-xs text-gray-800" href="/" aria-label="Home">&leftarrow; Go back</a>
+        <a class="pb-2 text-xs text-gray-800" href="/" aria-label="Home">&leftarrow; Home</a>
       {% endif %}
 
       {% if page.collection == "posts" or page.collection == "pages" %}
       
+      <h1 class="pb-2 font-semibold font-mono text-gray-800">
+        {{ page.title }}
+      </h1>
+
+      {% if page.collection == 'posts' %}<time class="pb-8 text-xs text-gray-600">{{ page.date | date_to_string }}</time>{% endif %}
+
       <article>
         {{ content }}
       </article>
