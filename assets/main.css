@@ -468,7 +468,12 @@ a {
           text-decoration-color: #1d4ed8;
 }
 
+code {
+  white-space: pre-wrap;
+}
+
 pre {
+  white-space: pre-wrap;
   padding-top: 2rem;
   padding-bottom: 2rem;
 }
