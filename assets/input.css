@@ -35,6 +35,7 @@
     }
     code {
         @apply whitespace-pre-wrap;
+        @apply text-xs;
     }
     pre {
         @apply whitespace-pre-wrap;

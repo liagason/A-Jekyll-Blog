@@ -470,6 +470,8 @@ a {
 
 code {
   white-space: pre-wrap;
+  font-size: 0.75rem;
+  line-height: 1rem;
 }
 
 pre {
@@ -578,10 +580,6 @@ pre {
 
 .pb-8 {
   padding-bottom: 2rem;
-}
-
-.pb-4 {
-  padding-bottom: 1rem;
 }
 
 .pb-5 {
