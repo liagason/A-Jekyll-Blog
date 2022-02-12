@@ -9,20 +9,18 @@ pre, code {
     position: relative;
     margin: 0;
     background-color: #fff;
-    padding: .4em .8em;
+
     border-radius: 3px;
     tab-size: 2;
   }
   
   .highlight .gutter {
-    padding-right: 1em;
+
     color: #aaa;
     border-right: 3px solid #fff;
   }
   
-  .highlight .code {
-    padding-left: 0em;
-  }
+
   
   .highlight pre {
     overflow: hidden;
@@ -32,7 +30,7 @@ pre, code {
   
   code {
     background: #fff;
-    padding: .2em .3em;
+
     vertical-align: middle;
   }
   
@@ -41,7 +39,7 @@ pre, code {
   }
   
   pre code {
-    padding: 0;
+
     word-wrap: initial;
     background: transparent;
   }
