@@ -600,6 +600,10 @@ pre {
   padding-top: 0.5rem;
 }
 
+.pt-4 {
+  padding-top: 1rem;
+}
+
 .font-mono {
   font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
 }

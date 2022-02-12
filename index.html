@@ -8,7 +8,7 @@ layout: default
 
 {% assign posts = site.posts | where: "feature", 1 %}
 {% for post in posts %}
-    <div class="pb-1 pt-2 flex flex-wrap">
+    <div class="pb-1 pt-4 flex flex-wrap">
         <a href="{{ post.url }}" class="text-blue-700 underline underline-offset-2 decoration-1 decoration-dashed decoration-blue-700">{{ post.title }}</a>
     </div>
     <time class="pb-2 text-xs text-gray-600">{{ post.date | date_to_string }}</time>
