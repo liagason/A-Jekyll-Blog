@@ -28,7 +28,7 @@ published: true
         {{ page.title }}
       </h1>
 
-      {% if page.collection == 'posts' %}<time class="pb-4 text-xs text-gray-600">{{ page.date | date_to_string }}</time>{% endif %}
+      {% if page.collection == 'posts' %}<time class="pb-5 pt-1 text-xs text-gray-600">{{ page.date | date_to_string }}</time>{% endif %}
 
       <article>
         {{ content }}
