@@ -468,9 +468,9 @@ a {
           text-decoration-color: #1d4ed8;
 }
 
-code {
-  padding-top: 0.5rem;
-  padding-bottom: 0.5rem;
+pre {
+  padding-top: 2rem;
+  padding-bottom: 2rem;
 }
 
 *, ::before, ::after {

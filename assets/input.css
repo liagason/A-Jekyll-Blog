@@ -33,8 +33,8 @@
         @apply decoration-dashed;
         @apply decoration-blue-700;
     }
-    code {
-        @apply py-2;
+    pre {
+        @apply py-8;
     }
 
   }
