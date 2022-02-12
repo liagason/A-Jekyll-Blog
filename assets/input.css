@@ -4,13 +4,33 @@
 
 @layer base {
     h1 {
-      @apply text-xl;
+      @apply text-lg;
+      @apply font-semibold;
     }
     h2 {
-      @apply text-lg;
+      @apply text-md;
+      @apply font-semibold;
     }
     h3 {
-        @apply text-md;
+        @apply text-sm;
         @apply font-semibold;
       }
+    h4 {
+        @apply text-xs;
+        @apply font-semibold;
+      }
+    h5 {
+        @apply font-semibold;
+      }
+    h6 {
+        @apply font-semibold;
+      }
+    a {
+        @apply text-blue-700;
+        @apply underline;
+        @apply underline-offset-2;
+        @apply decoration-1;
+        @apply decoration-dashed;
+        @apply decoration-blue-700;
+    }
   }
