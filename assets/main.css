@@ -433,6 +433,12 @@ h2 {
   line-height: 1.75rem;
 }
 
+h3 {
+  font-size: 1.25rem;
+  line-height: 1.75rem;
+  font-weight: 600;
+}
+
 *, ::before, ::after {
   --tw-translate-x: 0;
   --tw-translate-y: 0;
