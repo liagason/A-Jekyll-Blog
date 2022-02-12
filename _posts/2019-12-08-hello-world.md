@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Hello World
+feature: 1
 ---
 
 I have recently migrated my website from [Typecho](https://typecho.org) to Github Pages as it provides super fast free hosting and it's much easier to maintain!
