@@ -469,6 +469,16 @@ a {
 }
 
 code {
+  display: flex;
+  flex-wrap: wrap;
+  max-width: 42rem;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+pre {
+  display: flex;
+  flex-wrap: wrap;
   max-width: 42rem;
   margin-left: auto;
   margin-right: auto;
