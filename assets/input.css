@@ -8,7 +8,7 @@
       @apply font-semibold;
     }
     h2 {
-      @apply text-md;
+      @apply text-base;
       @apply font-semibold;
     }
     h3 {
