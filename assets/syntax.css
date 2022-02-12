@@ -21,7 +21,7 @@ pre, code {
   }
   
   .highlight .code {
-    padding-left: 1em;
+    padding-left: 0em;
   }
   
   .highlight pre {

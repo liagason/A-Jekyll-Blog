@@ -476,6 +476,8 @@ code {
 
 pre {
   white-space: pre-wrap;
+  font-size: 0.75rem;
+  line-height: 1rem;
   padding-top: 2rem;
   padding-bottom: 2rem;
 }
