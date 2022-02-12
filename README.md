@@ -1,6 +1,6 @@
 # Blog
 
-This is where I post my thoughts about edtech, teaching, programming and teaching programming!
+A minimal blog theme made with Tailwindcss.
 
 ## License
 
