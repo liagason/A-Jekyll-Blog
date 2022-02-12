@@ -522,6 +522,10 @@ a {
   display: flex;
 }
 
+.min-w-0 {
+  min-width: 0px;
+}
+
 .max-w-2xl {
   max-width: 42rem;
 }
