@@ -10,7 +10,8 @@ published: true
 	</head>
 
 	<body>
-
+    <section class="flex flex-wrap max-w-2xl mx-auto px-8 py-16 selection:bg-blue-200">
+      <div class="flex flex-col">
 		{% include header.html %}
 
         {% if page.collection == "posts" or page.collection == "pages" %}
@@ -23,7 +24,8 @@ published: true
       {% endif %}
 
 		{% include footer.html %}
-
+  </div>
+</section>
 	</body>
 
 </html>
