@@ -469,13 +469,8 @@ a {
 }
 
 code {
-  overflow-wrap: break-word;
-  white-space: pre-wrap;
-}
-
-pre {
-  overflow-wrap: break-word;
-  white-space: pre-wrap;
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
 }
 
 *, ::before, ::after {

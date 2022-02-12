@@ -34,11 +34,7 @@
         @apply decoration-blue-700;
     }
     code {
-        @apply break-words;
-        @apply whitespace-pre-wrap;
+        @apply py-2;
     }
-    pre {
-        @apply break-words;
-        @apply whitespace-pre-wrap;
-    }
+
   }
