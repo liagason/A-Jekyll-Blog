@@ -9,28 +9,20 @@ pre, code {
     position: relative;
     margin: 0;
     background-color: #fff;
-
-    border-radius: 3px;
     tab-size: 2;
   }
   
   .highlight .gutter {
-
     color: #aaa;
     border-right: 3px solid #fff;
   }
   
-
-  
   .highlight pre {
     overflow: hidden;
-    margin-top: 0;
-    margin-bottom: 0;
   }
   
   code {
     background: #fff;
-
     vertical-align: middle;
   }
   
@@ -39,7 +31,6 @@ pre, code {
   }
   
   pre code {
-
     word-wrap: initial;
     background: transparent;
   }
