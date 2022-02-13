@@ -11,5 +11,5 @@ layout: default
     <div class="pb-1 flex flex-wrap">
         <a href="{{ post.url }}" class="pt-4 text-blue-700 underline underline-offset-2 decoration-1 decoration-dashed decoration-blue-700">{{ post.title }}</a>
     </div>
-    <time class="pb-2 text-xs text-gray-600">{{ post.date | date_to_string }}</time>
+    <time class="pb-2 text-xs font-mono text-gray-600">{{ post.date | date_to_string }}</time>
 {% endfor %}
