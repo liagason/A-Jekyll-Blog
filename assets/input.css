@@ -37,8 +37,5 @@
         @apply whitespace-pre-wrap;
         @apply text-xs;
     }
-    pre {
-        @apply my-2;
-        @apply mx-2
-    }
+
   }
