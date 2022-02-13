@@ -7,7 +7,7 @@ div.highlight {
   position: relative;
   margin-top: .5em;
   margin-bottom: .5em;
-  background-color: #eef;
+  background-color: #e5e7eb;
   padding: .4em .8em;
   border-radius: 3px;
   tab-size: 2;
@@ -42,7 +42,7 @@ p code {
 pre code {
   padding: 0;
   word-wrap: initial;
-  background: #eef;
+  background: #e5e7eb;
 }
 
 .hll { background-color: #ffffcc }
