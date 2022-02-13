@@ -38,7 +38,7 @@
         @apply text-xs;
     }
     pre {
-        @apply py-2;
-        @apply px-2
+        @apply my-2;
+        @apply mx-2
     }
   }

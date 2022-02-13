@@ -6,7 +6,7 @@ div.highlight {
   overflow: hidden;
   position: relative;
   margin: 0;
-  background-color: #ddd;
+  background-color: #fff;
   padding: .4em .8em;
   border-radius: 3px;
   tab-size: 2;
@@ -29,7 +29,7 @@ div.highlight {
 }
 
 code {
-  background: #ddd;
+  background: #eee;
   padding: .2em .3em;
   vertical-align: middle;
 }
@@ -41,7 +41,7 @@ p code {
 pre code {
   padding: 0;
   word-wrap: initial;
-  background: #ddd;
+  background: #eee;
 }
 
 .hll { background-color: #ffffcc }
