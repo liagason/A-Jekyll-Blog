@@ -37,8 +37,4 @@
         @apply whitespace-pre-wrap;
         @apply text-xs;
     }
-    div.highlight {
-        @apply my-2;
-        @apply mx-2
-    }
   }
