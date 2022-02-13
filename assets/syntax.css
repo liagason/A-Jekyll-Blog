@@ -7,7 +7,7 @@ pre, code {
     overflow: hidden;
     position: relative;
     margin: 0;
-    background-color: #fff;
+    background-color: #aaa;
     tab-size: 2;
   }
   
@@ -20,7 +20,7 @@ pre, code {
   }
   
   code {
-    background: #fff;
+    background: #555;
     vertical-align: middle;
   }
   
