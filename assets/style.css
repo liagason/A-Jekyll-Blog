@@ -470,8 +470,13 @@ a {
           text-decoration-color: #1d4ed8;
 }
 
+@media (min-width: 768px) {
+  code {
+    white-space: pre-wrap;
+  }
+}
+
 code {
-  white-space: pre-wrap;
   font-size: 0.75rem;
   line-height: 1rem;
 }
