@@ -123,7 +123,7 @@ code,
 kbd,
 samp,
 pre {
-  font-family: Consolas, ui-monospace;
+  font-family: Consolas, ui-monospace, monospace;
   /* 1 */
   font-size: 1em;
   /* 2 */
@@ -594,7 +594,7 @@ video {
 }
 
 .font-mono {
-  font-family: Consolas, ui-monospace;
+  font-family: Consolas, ui-monospace, monospace;
 }
 
 .text-xs {

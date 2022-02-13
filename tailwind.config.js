@@ -4,9 +4,7 @@ module.exports = {
       fontFamily: {
         'sans': ['"Segoe UI"', 'system-ui'],
         'serif': ['ui-serif'],
-        'mono': ['Consolas', 'ui-monospace'],
-        'display': ['"Segoe UI"', 'system-ui'],
-        'body': ['"Segoe UI"', 'system-ui'],
+        'mono': ['Consolas', 'ui-monospace', 'monospace'],
       }
     },
     plugins: [],
