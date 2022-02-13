@@ -34,7 +34,7 @@
         @apply decoration-blue-700;
     }
     code {
-        @apply md:whitespace-pre-wrap;
+        @apply whitespace-pre-wrap;
         @apply text-xs;
     }
     img {
