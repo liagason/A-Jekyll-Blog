@@ -38,8 +38,7 @@
         @apply text-xs;
     }
     pre {
-        @apply whitespace-pre-wrap;
-        @apply text-xs;
-        @apply py-8;
+        @apply py-2;
+        @apply px-2
     }
   }
