@@ -37,4 +37,7 @@
         @apply whitespace-pre-wrap;
         @apply text-xs;
     }
+    img {
+      @apply my-2;
+    }
   }

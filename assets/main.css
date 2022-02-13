@@ -413,8 +413,6 @@ img,
 video {
   max-width: 100%;
   height: auto;
-  margin-top: .4em;
-  margin-bottom: .4em;
 }
 
 /*
@@ -474,6 +472,11 @@ code {
   white-space: pre-wrap;
   font-size: 0.75rem;
   line-height: 1rem;
+}
+
+img {
+  margin-top: 0.5rem;
+  margin-bottom: 0.5rem;
 }
 
 *, ::before, ::after {
