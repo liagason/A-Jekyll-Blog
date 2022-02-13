@@ -40,4 +40,10 @@
     img {
       @apply my-2;
     }
+    svg {
+      @apply my-2;
+    }
+    video {
+      @apply my-2;
+    }
   }
