@@ -4,26 +4,16 @@
 
 @layer base {
     h1 {
-      @apply text-lg;
+      @apply text-xl;
       @apply font-semibold;
     }
     h2 {
-      @apply text-base;
+      @apply text-lg;
       @apply font-semibold;
     }
     h3 {
-        @apply text-sm;
+        @apply text-base;
         @apply font-semibold;
-      }
-    h4 {
-        @apply text-xs;
-        @apply font-semibold;
-      }
-    h5 {
-      @apply text-sm;
-      }
-    h6 {
-      @apply text-xs;
       }
     a {
         @apply text-blue-700;
@@ -33,7 +23,13 @@
         @apply decoration-dashed;
         @apply decoration-blue-700;
     }
+    pre {
+      @apply break-all;
+      @apply whitespace-pre-wrap;
+      @apply text-xs;
+    }
     code {
+        @apply break-all;
         @apply whitespace-pre-wrap;
         @apply text-xs;
     }

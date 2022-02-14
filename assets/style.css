@@ -424,37 +424,21 @@ Ensure the default browser behavior of the `hidden` attribute.
 }
 
 h1 {
-  font-size: 1.125rem;
+  font-size: 1.25rem;
   line-height: 1.75rem;
   font-weight: 600;
 }
 
 h2 {
-  font-size: 1rem;
-  line-height: 1.5rem;
+  font-size: 1.125rem;
+  line-height: 1.75rem;
   font-weight: 600;
 }
 
 h3 {
-  font-size: 0.875rem;
-  line-height: 1.25rem;
+  font-size: 1rem;
+  line-height: 1.5rem;
   font-weight: 600;
-}
-
-h4 {
-  font-size: 0.75rem;
-  line-height: 1rem;
-  font-weight: 600;
-}
-
-h5 {
-  font-size: 0.875rem;
-  line-height: 1.25rem;
-}
-
-h6 {
-  font-size: 0.75rem;
-  line-height: 1rem;
 }
 
 a {
@@ -470,7 +454,15 @@ a {
           text-decoration-color: #1d4ed8;
 }
 
+pre {
+  word-break: break-all;
+  white-space: pre-wrap;
+  font-size: 0.75rem;
+  line-height: 1rem;
+}
+
 code {
+  word-break: break-all;
   white-space: pre-wrap;
   font-size: 0.75rem;
   line-height: 1rem;
