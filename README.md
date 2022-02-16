@@ -1,6 +1,6 @@
 # Blog
 
-A minimal blog theme made with Tailwindcss.
+A minimalistic blog theme made with Tailwindcss.
 
 ## License
 
