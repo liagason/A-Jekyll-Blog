@@ -4,7 +4,7 @@ A minimal blog theme made with Tailwindcss.
 
 ## License
 
-The content of the following directories may be copyrighted:
+The content of the following directories may be subject to copyrights:
 
 ```
 _posts/
