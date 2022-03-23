@@ -7,10 +7,12 @@ feature: 1
 Τα παρακάτω Φύλλα Εργασίας έχουν στόχο να εισάγουν τους μαθητές των τελευταίων τάξεων του Δημοτικού και των πρώτων τάξεων του Γυμνασίου στις βασικές αρχές του Προγραμματισμού με τη χρήση της γλώσσας προγραμματισμού [Python](https://www.python.org/) (έκδοση 3.x).
 
 <br>
+
+Τα Φύλλα Εργασίας καλύπτουν τις βασικές προγραμματιστικές δομές για ανάπτυξη απλών προγραμμάτων χωρίς γραφικό περιβάλλον στην Python. Επιπλέον, καλύπτεται η βιβλιοθήκη [sense_hat](https://pythonhosted.org/sense-hat/) ώστε οι μαθητές να είναι σε θέση να αναπτύσσουν προγράμματα που χρησιμοποιούν τους αισθητήρες του μικροϋπολογιστή [Astro Pi](https://astro-pi.org/) ([Raspberry Pi](https://www.raspberrypi.org/)).
+
+<br>
 ![Εισαγωγή στην Python για παιδιά.](https://github.com/liagason/liagason.github.io/raw/master/assets/images/python-logo.png "Εισαγωγή στην Python για παιδιά.")
 <br>
-
-Τα Φύλλα Εργασίας καλύπτουν τις βασικές προγραμματιστικές δομές για ανάπτυξη απλών προγραμμάτων χωρίς γραφικό περιβάλλον στην Python. Επιπλέον, καλύπτεται η βιβλιοθήκη [sense_hat](https://pythonhosted.org/sense-hat/) ώστε οι μαθητές να είναι σε θέση να αναπτύσσουν προγράμματα που χρησιμοποιούν τους αισθητήρες του μικροϋπολογιστή [Astro Pi](https://astro-pi.org/) ([Raspberry Pi](https://www.raspberrypi.org/)).<br><br>
 
 Μάθημα 1 [Δεδομένα - Τύποι δεδομένων - Η έννοια της μεταβλητής](https://github.com/liagason/A-Jekyll-Blog/raw/master/assets/files/python_programming/1.pdf)<br><br>
 Μάθημα 2 [Εισαγωγή δεδομένων - Η εντολή input()](https://github.com/liagason/A-Jekyll-Blog/raw/master/assets/files/python_programming/2.pdf)<br><br>
