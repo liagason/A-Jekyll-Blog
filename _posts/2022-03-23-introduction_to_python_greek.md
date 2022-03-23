@@ -6,18 +6,21 @@ feature: 1
 
 Τα παρακάτω Φύλλα Εργασίας έχουν στόχο να εισάγουν τους μαθητές των τελευταίων τάξεων του Δημοτικού και των πρώτων τάξεων του Γυμνασίου στις βασικές αρχές του Προγραμματισμού με τη χρήση της γλώσσας προγραμματισμού Python (έκδοση 3.x).
 <br><br>
+
+![Εισαγωγή στην Python για παιδιά.](https://github.com/liagason/liagason.github.io/raw/master/assets/images/python-logo.png "Εισαγωγή στην Python για παιδιά.")<br><br>
+
 Τα Φύλλα Εργασίας καλύπτουν τις βασικές προγραμματιστικές δομές για ανάπτυξη προγραμμάτων χωρίς γραφικό περιβάλλον στην Python καθώς και τη χρήση του Sense HAT για αξιοποίηση του μικροϋπολογιστή Raspberry Pi (Astro Pi) στον κώδικά μας.
 <br><br>
 
-Μάθημα 0 [Δεδομένα - Τύποι δεδομένων - Η έννοια της μεταβλητής](https://github.com/liagason/A-Jekyll-Blog/raw/master/assets/files/python_programming/1.pdf)<br>
-Μάθημα 1 [Εισαγωγή δεδομένων - Η εντολή input()](https://github.com/liagason/A-Jekyll-Blog/raw/master/assets/files/python_programming/2.pdf)<br>
-Μάθημα 2 [Τι να κάνω AN... ΑΛΛΙΩΣ τι; - Η δομή ελέγχου if else](https://github.com/liagason/A-Jekyll-Blog/raw/master/assets/files/python_programming/3.pdf)<br>
-Μάθημα 3 [Αλήθεια ή Ψέματα; - Έλεγχος συνθηκών](https://github.com/liagason/A-Jekyll-Blog/raw/master/assets/files/python_programming/4.pdf)<br>
-Μάθημα 4 [Μόνο για τόσο... όσο... - Η δομή επανάληψης while](https://github.com/liagason/A-Jekyll-Blog/raw/master/assets/files/python_programming/5.pdf)<br>
-Μάθημα 5 [Μια απλή ταμειακή μηχανή - Δομές επανάληψης και ελέγχου](https://github.com/liagason/A-Jekyll-Blog/raw/master/assets/files/python_programming/6.pdf)<br>
-Μάθημα 6 [Η λίστα του Σούπερμαρκετ - Λίστες στην Python](https://github.com/liagason/A-Jekyll-Blog/raw/master/assets/files/python_programming/7.pdf)<br>
-Μάθημα 7 [Προσθέτω και αφαιρώ απ’ το καλάθι - Λειτουργίες στις λίστες](https://github.com/liagason/A-Jekyll-Blog/raw/master/assets/files/python_programming/8.pdf)<br>
-Τεστ [Επαναληπτικό τεστ στις βασικές προγραμματιστικέ δομές της Python](https://github.com/liagason/A-Jekyll-Blog/raw/master/assets/files/python_programming/test_in_python.pdf)<br>
-Μάθημα 8 [Αισθητήρες και μετρήσεις... - Εισαγωγή στο Sense HAT](https://github.com/liagason/A-Jekyll-Blog/raw/master/assets/files/python_programming/9.pdf)<br>
-Μάθημα 9 [Ώρα να φτιάξουμε λίστες με μετρήσεις - Σύνθετα προβλήματα](https://github.com/liagason/A-Jekyll-Blog/raw/master/assets/files/python_programming/10.pdf)<br>
-Μάθημα 10 [Πρακτική αξιοποίηση του Astro Pi - Συναρτήσεις - Αρχεία](https://github.com/liagason/A-Jekyll-Blog/raw/master/assets/files/python_programming/11.pdf)
+Μάθημα 1 [Δεδομένα - Τύποι δεδομένων - Η έννοια της μεταβλητής](https://github.com/liagason/A-Jekyll-Blog/raw/master/assets/files/python_programming/1.pdf)<br>
+Μάθημα 2 [Εισαγωγή δεδομένων - Η εντολή input()](https://github.com/liagason/A-Jekyll-Blog/raw/master/assets/files/python_programming/2.pdf)<br>
+Μάθημα 3 [Τι να κάνω AN... ΑΛΛΙΩΣ τι; - Η δομή ελέγχου if-else](https://github.com/liagason/A-Jekyll-Blog/raw/master/assets/files/python_programming/3.pdf)<br>
+Μάθημα 4 [Αλήθεια ή Ψέματα; - Έλεγχος συνθηκών](https://github.com/liagason/A-Jekyll-Blog/raw/master/assets/files/python_programming/4.pdf)<br>
+Μάθημα 5 [Μόνο για τόσο... όσο... - Η δομή επανάληψης while](https://github.com/liagason/A-Jekyll-Blog/raw/master/assets/files/python_programming/5.pdf)<br>
+Μάθημα 6 [Μια απλή ταμειακή μηχανή - Δομές επανάληψης και ελέγχου](https://github.com/liagason/A-Jekyll-Blog/raw/master/assets/files/python_programming/6.pdf)<br>
+Μάθημα 7 [Η λίστα του Σούπερμαρκετ - Οι λίστες στην Python](https://github.com/liagason/A-Jekyll-Blog/raw/master/assets/files/python_programming/7.pdf)<br>
+Μάθημα 8 [Προσθέτω και αφαιρώ απ’ το καλάθι - Λειτουργίες στις λίστες](https://github.com/liagason/A-Jekyll-Blog/raw/master/assets/files/python_programming/8.pdf)<br>
+Τεστ [Επαναληπτικό τεστ στις βασικές προγραμματιστικές δομές](https://github.com/liagason/A-Jekyll-Blog/raw/master/assets/files/python_programming/test.pdf)<br>
+Μάθημα 9 [Αισθητήρες και μετρήσεις - Εισαγωγή στο Sense HAT](https://github.com/liagason/A-Jekyll-Blog/raw/master/assets/files/python_programming/9.pdf)<br>
+Μάθημα 10 [Λίστες με μετρήσεις - Πιο σύνθετα προγράμματα](https://github.com/liagason/A-Jekyll-Blog/raw/master/assets/files/python_programming/10.pdf)<br>
+Μάθημα 11 [Πρακτική αξιοποίηση του Astro Pi - Συναρτήσεις - Αρχεία](https://github.com/liagason/A-Jekyll-Blog/raw/master/assets/files/python_programming/11.pdf)
