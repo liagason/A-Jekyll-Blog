@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Απλά GUI στην Python με tkinter
+title: Απλά παραδείγματα GUI στην Python με tkinter
 feature: 1
 ---
 
