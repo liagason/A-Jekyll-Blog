@@ -18,6 +18,6 @@ feature: 1
 Μάθημα 6 [Η λίστα του Σούπερμαρκετ - Λίστες στην Python](https://github.com/liagason/A-Jekyll-Blog/raw/master/assets/files/python_programming/7.pdf)<br>
 Μάθημα 7 [Προσθέτω και αφαιρώ απ’ το καλάθι - Λειτουργίες στις λίστες](https://github.com/liagason/A-Jekyll-Blog/raw/master/assets/files/python_programming/8.pdf)<br>
 Τεστ [Επαναληπτικό τεστ στις βασικές προγραμματιστικέ δομές της Python](https://github.com/liagason/A-Jekyll-Blog/raw/master/assets/files/python_programming/test_in_python.pdf)<br>
-Μάθημα 8 [Αισθητήρες και μετρήσεις... - Εισαγωγή στο Sense HAT και το Raspberry Pi](https://github.com/liagason/A-Jekyll-Blog/raw/master/assets/files/python_programming/9.pdf)<br>
-Μάθημα 9 [Ώρα να φτιάξουμε λίστες με μετρήσεις - Σύνθετα προβλήματα με βιβλιοθήκη sense_hat και λίστες](https://github.com/liagason/A-Jekyll-Blog/raw/master/assets/files/python_programming/10.pdf)<br>
-Μάθημα 10 [Παραδείγματα κώδικα για πιο πρακτική αξιοποίηση του Astro Pi - Συναρτήσεις - Αρχεία](https://github.com/liagason/A-Jekyll-Blog/raw/master/assets/files/python_programming/11.pdf)
+Μάθημα 8 [Αισθητήρες και μετρήσεις... - Εισαγωγή στο Sense HAT](https://github.com/liagason/A-Jekyll-Blog/raw/master/assets/files/python_programming/9.pdf)<br>
+Μάθημα 9 [Ώρα να φτιάξουμε λίστες με μετρήσεις - Σύνθετα προβλήματα](https://github.com/liagason/A-Jekyll-Blog/raw/master/assets/files/python_programming/10.pdf)<br>
+Μάθημα 10 [Πρακτική αξιοποίηση του Astro Pi - Συναρτήσεις - Αρχεία](https://github.com/liagason/A-Jekyll-Blog/raw/master/assets/files/python_programming/11.pdf)
