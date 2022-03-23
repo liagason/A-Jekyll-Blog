@@ -23,4 +23,4 @@ feature: 1
 Τεστ [Επαναληπτικό τεστ στις βασικές προγραμματιστικές δομές](https://github.com/liagason/A-Jekyll-Blog/raw/master/assets/files/python_programming/test.pdf)<br><br>
 Μάθημα 9 [Αισθητήρες και μετρήσεις - Εισαγωγή στο Sense HAT](https://github.com/liagason/A-Jekyll-Blog/raw/master/assets/files/python_programming/9.pdf)<br><br>
 Μάθημα 10 [Λίστες με μετρήσεις - Πιο σύνθετα προγράμματα](https://github.com/liagason/A-Jekyll-Blog/raw/master/assets/files/python_programming/10.pdf)<br><br>
-Μάθημα 11 [Πρακτική αξιοποίηση του Astro Pi - Συναρτήσεις - Αρχεία](https://github.com/liagason/A-Jekyll-Blog/raw/master/assets/files/python_programming/11.pdf)
+Μάθημα 11 [Πιο πρακτικός κώδικας με το Astro Pi - Συναρτήσεις - Αρχεία](https://github.com/liagason/A-Jekyll-Blog/raw/master/assets/files/python_programming/11.pdf)
