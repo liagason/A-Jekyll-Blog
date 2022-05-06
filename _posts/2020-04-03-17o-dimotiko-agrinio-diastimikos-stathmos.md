@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Η ομάδα του 17ου Δ.Σ. Αγρινίου στον Διεθνή Διαστημικό Σταθμό 🚀
-feature: 1
+feature: 0
 ---
 
 Την Πέμπτη, 2 Απριλίου 2020, [η ομάδα μας](https://blogs.sch.gr/17dimagr/2020/04/03/tin-tetarti-8-aprilioy-2020-ston-diethni-diastimiko-stathmo-tha-diexachthei-to-peirama-toy-scholeioy-mas/) προκρίθηκε στην τελική φάση του [Mission Space Lab – Life in Space](https://astro-pi.org/missions/space-lab/), μαζί με 8 ακόμη ομάδες από την Ελλάδα. 😉
