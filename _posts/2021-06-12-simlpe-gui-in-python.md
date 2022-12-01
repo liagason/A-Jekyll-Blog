@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Απλά παραδείγματα GUI στην Python με tkinter
-feature: 1
+feature: 0
 ---
 
 Παρακάτω ακολουθούν κάποια απλά παραδείγματα γραφικού περιβάλλοντος στην Python με τη χρήση της βιβλιοθήκης [tkinter](https://docs.python.org/3/library/tkinter.html). Τα παραδείγματα προϋποθέτουν βασική γνώση της γλώσσας.
