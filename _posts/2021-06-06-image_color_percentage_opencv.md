@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Εντοπισμός ποσοστού χρώματος σε εικόνα - Python & OpenCV
-feature: 0
+feature: 1
 ---
 
 ```python
